@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41370'
     url: http://www.gutenberg.org/2009/agents/41370
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41792#Theodore-Watts-DuntonPoet-Novelist-Critic
 gutenberg_issued: '2013-01-06'
 gutenberg_type: Text
 identifiers:
