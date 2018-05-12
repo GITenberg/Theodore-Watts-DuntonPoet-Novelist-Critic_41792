@@ -1,0 +1,29 @@
+_repo: Theodore-Watts-DuntonPoet-Novelist-Critic_41792
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, James
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '41370'
+    url: http://www.gutenberg.org/2009/agents/41370
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41792'
+  lccn: 05015814
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Watts-Dunton, Theodore, 1832-1914'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Critics -- Great Britain -- Biography'
+title: 'Theodore Watts-Dunton: Poet, Novelist, Critic'
+url: http://www.gutenberg.org/ebooks/41792
